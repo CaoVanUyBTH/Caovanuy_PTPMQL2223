@@ -3,13 +3,10 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        int a = 2;
-        do
+        for(int i = 0; i < 10; i++ )
         {
-            System.Console.WriteLine("Vong lap thu {0}", a);
-            //tang a len 1 don vi de dam bao co luc a >= 10
-            //a >= 10 thi vong lap se ket thuc
-            a++;
-        }while(a < 10);
+            if(i==5) break;
+            System.Console.WriteLine("Vong lap thu {0}", i);
+        }
     }
 }
