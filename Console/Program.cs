@@ -12,7 +12,11 @@ internal class Program
         //doc du lieu nhap tu ban phim chuyen snag kieu int va gan cho b
         b = Convert.ToInt32(Console.ReadLine());
         //in tong a + b ra ngoai man hinh
-        System.Console.WriteLine("{0} / {1} = {2}", a, b, a/b);
-        System.Console.WriteLine("{0} % {1} = {2}", a, b, a%b);
+        if (a > b)
+        System.Console.WriteLine("{0} > {1}", a, b, a > b);
+        else if (a < b)
+        System.Console.WriteLine("{0} < {1}", a, b, a < b);
+        else
+        System.Console.WriteLine("{0} = {1}", a, b, a = b);
     }
 }
