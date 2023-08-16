@@ -3,20 +3,19 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        int a, b; //Khai bao 2 bien so a va b kieu int
-        //thong bao cho nguoi dung nhap vao a
-        System.Console.Write("a = ");
-        //doc du lieu nhap tu ban phim chuyen snag kieu int va gan cho a
-        a = Convert.ToInt32(Console.ReadLine());
-        System.Console.Write("b = ");
-        //doc du lieu nhap tu ban phim chuyen snag kieu int va gan cho b
-        b = Convert.ToInt32(Console.ReadLine());
-        //in tong a + b ra ngoai man hinh
-        if (a > b)
-        System.Console.WriteLine("{0} > {1}", a, b, a > b);
-        else if (a < b)
-        System.Console.WriteLine("{0} < {1}", a, b, a < b);
-        else
-        System.Console.WriteLine("{0} = {1}", a, b, a = b);
+        int day = 2;
+        switch(day)
+        {
+            case 1 : System.Console.WriteLine("Chu nhat"); break;
+            case 2 : System.Console.WriteLine("Thu 2"); break;
+            case 3 : System.Console.WriteLine("Thu 3"); break;
+            case 4 : System.Console.WriteLine("Thu 4"); break;
+            case 5 : System.Console.WriteLine("Thu 5"); break;
+            case 6 : System.Console.WriteLine("Thu 6"); break;
+            case 7 : System.Console.WriteLine("Thu 7"); break;
+            default :
+            System.Console.Write("Không phải ngày trong tuần");
+            break;
+        }
     }
 }
