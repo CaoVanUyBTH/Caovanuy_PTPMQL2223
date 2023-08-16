@@ -3,8 +3,10 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        Console.Write("Nhap vao du lieu: ");
-        string str = Console.ReadLine();
-        Console.WriteLine("Du lieu vua nhap vao la: " + str);
+      //Khai bao bien kieu string va gan gia tri = Pham Van Dong
+      string diachi = "Pham Van Dong";
+      //Khai bao bien kieu in va gan gia tri = 18
+      int sodienthoai = 0915544260;
+      Console.WriteLine("Dia chi {0} - So dien thoai {1} ", diachi, sodienthoai);
     }
 }
