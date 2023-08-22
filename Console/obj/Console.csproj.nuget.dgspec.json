@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\OneDrive\\Máy tính\\PTQMPL\\Caovanuy_PTPMQL2324\\Console\\Console.csproj": {}
+    "d:\\PTPMQL\\Caovanuy_PTPMQL2324\\Console\\Console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\OneDrive\\Máy tính\\PTQMPL\\Caovanuy_PTPMQL2324\\Console\\Console.csproj": {
+    "d:\\PTPMQL\\Caovanuy_PTPMQL2324\\Console\\Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\PTQMPL\\Caovanuy_PTPMQL2324\\Console\\Console.csproj",
+        "projectUniqueName": "d:\\PTPMQL\\Caovanuy_PTPMQL2324\\Console\\Console.csproj",
         "projectName": "Console",
-        "projectPath": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\PTQMPL\\Caovanuy_PTPMQL2324\\Console\\Console.csproj",
+        "projectPath": "d:\\PTPMQL\\Caovanuy_PTPMQL2324\\Console\\Console.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\PTQMPL\\Caovanuy_PTPMQL2324\\Console\\obj\\",
+        "outputPath": "d:\\PTPMQL\\Caovanuy_PTPMQL2324\\Console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"

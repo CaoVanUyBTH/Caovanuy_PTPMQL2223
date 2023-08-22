@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\PTQMPL\\Caovanuy_PTPMQL2324\\Console\\Console.csproj",
+      "projectUniqueName": "D:\\PTPMQL\\Caovanuy_PTPMQL2324\\Console\\Console.csproj",
       "projectName": "Console",
-      "projectPath": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\PTQMPL\\Caovanuy_PTPMQL2324\\Console\\Console.csproj",
+      "projectPath": "D:\\PTPMQL\\Caovanuy_PTPMQL2324\\Console\\Console.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\PTQMPL\\Caovanuy_PTPMQL2324\\Console\\obj\\",
+      "outputPath": "D:\\PTPMQL\\Caovanuy_PTPMQL2324\\Console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"

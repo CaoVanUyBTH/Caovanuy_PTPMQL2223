@@ -1,12 +1,16 @@
-﻿// See https://aka.ms/new-console-template for more informationint
-internal class Program
+﻿using System.Security.Cryptography;
+using Console.Models;
+public class Program
 {
-    private static void Main(string[] args)
+    private static void Main (string[] args)
     {
-        for(int i = 0; i < 10; i++ )
-        {
-            if(i==5) continue;
-            System.Console.WriteLine("Vong lap thu {0}", i);
-        }
+        // Person ps1 = new Person();
+        // Person ps2 = new Person();
+        // ps1.FullName = "Nguyen Van A";
+        // ps1.Address = "Ha Noi";
+        // ps1.Age = 18;
+        // ps1.Display();
+        System.Console.WriteLine("A = ");
+        int a =  Convert.ToInt32(Console.ReadLine());
     }
 }
