@@ -1,16 +1,14 @@
-﻿using System.Security.Cryptography;
-using Console.Models;
+﻿
+using NewApp.Models.Models;
+
 public class Program
 {
-    private static void Main (string[] args)
+    private static void Main(string[]args)
     {
-        // Person ps1 = new Person();
-        // Person ps2 = new Person();
-        // ps1.FullName = "Nguyen Van A";
-        // ps1.Address = "Ha Noi";
-        // ps1.Age = 18;
-        // ps1.Display();
-        System.Console.WriteLine("A = ");
-        int a =  Convert.ToInt32(Console.ReadLine());
+        //Khoi tao doi tuong ps tu class Person
+        Person ps = new Person();
+        string str = "Nguyen Van A";
+        int a = 22;
+        Console.WriteLine("{0} sinh nam {1}", str, ps.GetYear0fBirth(a));
     }
 }
