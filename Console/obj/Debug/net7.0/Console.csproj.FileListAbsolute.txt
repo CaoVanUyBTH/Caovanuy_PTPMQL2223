@@ -28,3 +28,11 @@ D:\PTPMQL\Caovanuy_PTPMQL2324\Console\bin\Debug\net7.0\Console.dll
 D:\PTPMQL\Caovanuy_PTPMQL2324\Console\bin\Debug\net7.0\Console.pdb
 D:\PTPMQL\Caovanuy_PTPMQL2324\Console\obj\Debug\net7.0\Console.genruntimeconfig.cache
 D:\PTPMQL\Caovanuy_PTPMQL2324\Console\obj\Debug\net7.0\ref\Console.dll
+D:\PTPMQL\Caovanuy_PTPMQL2223-main\Console\obj\Debug\net7.0\Console.csproj.AssemblyReference.cache
+D:\PTPMQL\Caovanuy_PTPMQL2223-main\Console\obj\Debug\net7.0\Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\PTPMQL\Caovanuy_PTPMQL2223-main\Console\obj\Debug\net7.0\Console.AssemblyInfoInputs.cache
+D:\PTPMQL\Caovanuy_PTPMQL2223-main\Console\obj\Debug\net7.0\Console.AssemblyInfo.cs
+D:\PTPMQL\Caovanuy_PTPMQL2223-main\Console\obj\Debug\net7.0\Console.csproj.CoreCompileInputs.cache
+D:\PTPMQL\Caovanuy_PTPMQL2223-main\Console\obj\Debug\net7.0\Console.dll
+D:\PTPMQL\Caovanuy_PTPMQL2223-main\Console\obj\Debug\net7.0\refint\Console.dll
+D:\PTPMQL\Caovanuy_PTPMQL2223-main\Console\obj\Debug\net7.0\Console.pdb

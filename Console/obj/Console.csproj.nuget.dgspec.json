@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\PTPMQL\\Caovanuy_PTPMQL2324\\Console\\Console.csproj": {}
+    "d:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\Console\\Console.csproj": {}
   },
   "projects": {
-    "d:\\PTPMQL\\Caovanuy_PTPMQL2324\\Console\\Console.csproj": {
+    "d:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\Console\\Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\PTPMQL\\Caovanuy_PTPMQL2324\\Console\\Console.csproj",
+        "projectUniqueName": "d:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\Console\\Console.csproj",
         "projectName": "Console",
-        "projectPath": "d:\\PTPMQL\\Caovanuy_PTPMQL2324\\Console\\Console.csproj",
+        "projectPath": "d:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\Console\\Console.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "d:\\PTPMQL\\Caovanuy_PTPMQL2324\\Console\\obj\\",
+        "outputPath": "d:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\Console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
