@@ -9,10 +9,14 @@ namespace MVC.PesonController
         {
             return View();
         }
+         public IActionResult Privacy()
+        {
+            return View();
+        }
         [HttpPost]
         public IActionResult Index(string Name)
         {
-            ViewBag.thongBao = "Xin chào " + Name;
+            ViewBag.thongBao1 = " Xin chào " + Name;
             return View();
         } 
     }
