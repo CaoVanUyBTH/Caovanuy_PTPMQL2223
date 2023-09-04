@@ -9,10 +9,7 @@ namespace MVC.PesonController
         {
             return View();
         }
-         public IActionResult Privacy()
-        {
-            return View();
-        }
+        
         [HttpPost]
         public IActionResult Index(string Name)
         {
