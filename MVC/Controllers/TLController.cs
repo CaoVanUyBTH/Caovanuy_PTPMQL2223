@@ -19,7 +19,7 @@ namespace MVC.Controllers
         if(!String.IsNullOrEmpty(Phucap)) PC = Convert.ToDouble(Phucap);
         LuongNV = CB*HS+PC;
         ketqua = "Lương của bạn là: " + LuongNV + "VNĐ";
-        ViewBag.tl = ketqua;
+        ViewBag.TL = ketqua;
         return View();
         }
     }
