@@ -24065,6 +24065,11 @@
       "FilePath": "d:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\Demo\\Views\\Demo\\Demo.cshtml",
       "TargetPath": "Views\\Demo\\Demo.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\Demo\\Views\\Tinhluong\\Index.cshtml",
+      "TargetPath": "Views\\Tinhluong\\Index.cshtml",
+      "FileKind": "mvc"
     }
   ]
 }
