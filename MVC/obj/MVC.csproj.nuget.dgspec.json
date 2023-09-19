@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\MVC\\MVC.csproj": {}
+    "d:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\MVC\\MVC.csproj": {}
   },
   "projects": {
-    "D:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\MVC\\MVC.csproj": {
+    "d:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\MVC\\MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\MVC\\MVC.csproj",
+        "projectUniqueName": "d:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\MVC\\MVC.csproj",
         "projectName": "MVC",
-        "projectPath": "D:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\MVC\\MVC.csproj",
+        "projectPath": "d:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\MVC\\MVC.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\MVC\\obj\\",
+        "outputPath": "d:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -82,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.110\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.111\\RuntimeIdentifierGraph.json"
         }
       }
     }

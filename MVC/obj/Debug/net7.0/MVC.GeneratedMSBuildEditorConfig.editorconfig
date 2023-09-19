@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = d:\PTPMQL\Caovanuy_PTPMQL2223-main\MVC
 build_property._RazorSourceGeneratorDebug = 
 
+[d:/PTPMQL/Caovanuy_PTPMQL2223-main/MVC/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [d:/PTPMQL/Caovanuy_PTPMQL2223-main/MVC/Views/GPTB2/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR1BUQjJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

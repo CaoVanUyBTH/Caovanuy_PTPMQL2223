@@ -1,12 +1,11 @@
-﻿using Console.Test.Test;
-public class Program
+﻿public class Program
 {
     private static void Main(string[] args)
     {
         int n = 0;
         do
         {
-            Console.WriteLine("n = ");
+            System.Console.WriteLine("n = ");
             n = Convert.ToInt32(Console.ReadLine());
         } while (n < 1);
         Test [] TestArray = new Test[n];

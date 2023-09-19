@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\Console\\Console.csproj",
+      "projectUniqueName": "d:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\Console\\Console.csproj",
       "projectName": "Console",
-      "projectPath": "D:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\Console\\Console.csproj",
+      "projectPath": "d:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\Console\\Console.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\Console\\obj\\",
+      "outputPath": "d:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\Console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.110\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.111\\RuntimeIdentifierGraph.json"
       }
     }
   }

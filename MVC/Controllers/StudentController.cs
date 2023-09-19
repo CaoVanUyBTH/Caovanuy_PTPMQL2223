@@ -42,12 +42,12 @@ namespace MVC.Controllers
         {
             if (ID == null)
             {
-                return NotFound();
+                return View ("NotFound");
             }
             var student = await _context.Students.FindAsync(ID);
             if (student == null)
             {
-                return NotFound();
+                return View ("NotFound");
             }
             return View(student);
         }
