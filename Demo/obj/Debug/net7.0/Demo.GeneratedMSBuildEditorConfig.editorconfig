@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Demo
 build_property.RootNamespace = Demo
-build_property.ProjectDir = D:\PTPMQL\Caovanuy_PTPMQL2223-main\Demo\
+build_property.ProjectDir = d:\PTPMQL\Caovanuy_PTPMQL2223-main\Demo\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\PTPMQL\Caovanuy_PTPMQL2223-main\Demo
+build_property.MSBuildProjectDirectory = d:\PTPMQL\Caovanuy_PTPMQL2223-main\Demo
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/PTPMQL/Caovanuy_PTPMQL2223-main/Demo/Views/Demo/Demo.cshtml]
+[d:/PTPMQL/Caovanuy_PTPMQL2223-main/Demo/Views/Demo/Demo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtb1xEZW1vLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMQL/Caovanuy_PTPMQL2223-main/Demo/Views/Home/Index.cshtml]
+[d:/PTPMQL/Caovanuy_PTPMQL2223-main/Demo/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMQL/Caovanuy_PTPMQL2223-main/Demo/Views/Home/Privacy.cshtml]
+[d:/PTPMQL/Caovanuy_PTPMQL2223-main/Demo/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMQL/Caovanuy_PTPMQL2223-main/Demo/Views/Person/Index.cshtml]
+[d:/PTPMQL/Caovanuy_PTPMQL2223-main/Demo/Views/Person/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMQL/Caovanuy_PTPMQL2223-main/Demo/Views/Shared/Error.cshtml]
+[d:/PTPMQL/Caovanuy_PTPMQL2223-main/Demo/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMQL/Caovanuy_PTPMQL2223-main/Demo/Views/Shared/_ValidationScriptsPartial.cshtml]
+[d:/PTPMQL/Caovanuy_PTPMQL2223-main/Demo/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMQL/Caovanuy_PTPMQL2223-main/Demo/Views/Tinhluong/Index.cshtml]
+[d:/PTPMQL/Caovanuy_PTPMQL2223-main/Demo/Views/Tinhluong/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGluaGx1b25nXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMQL/Caovanuy_PTPMQL2223-main/Demo/Views/_ViewImports.cshtml]
+[d:/PTPMQL/Caovanuy_PTPMQL2223-main/Demo/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMQL/Caovanuy_PTPMQL2223-main/Demo/Views/_ViewStart.cshtml]
+[d:/PTPMQL/Caovanuy_PTPMQL2223-main/Demo/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMQL/Caovanuy_PTPMQL2223-main/Demo/Views/Shared/_Layout.cshtml]
+[d:/PTPMQL/Caovanuy_PTPMQL2223-main/Demo/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-xwylo3ageb
