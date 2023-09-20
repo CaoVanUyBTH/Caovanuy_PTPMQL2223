@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\Demo\\Demo.csproj": {}
+    "d:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\Demo\\Demo.csproj": {}
   },
   "projects": {
-    "D:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\Demo\\Demo.csproj": {
+    "d:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\Demo\\Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\Demo\\Demo.csproj",
+        "projectUniqueName": "d:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\Demo\\Demo.csproj",
         "projectName": "Demo",
-        "projectPath": "D:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\Demo\\Demo.csproj",
+        "projectPath": "d:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\Demo\\Demo.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\Demo\\obj\\",
+        "outputPath": "d:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\Demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SoIYvs7XHgpCMUzYKiz77g+5cIx2O/ooi+FNddW8YA1K6C/vnhrkzt6kENuTP5uTXA/0jUiUxkqsXIii3m5qEg==",
+  "dgSpecHash": "NCr4USvn/FNs6tggCcdPKZS8evOgpXj9TuVZF6fCYnbgw+T5lk+piammd9vRjEAYDT4gs2l0iKceS8kUQ++uzw==",
   "success": true,
-  "projectFilePath": "D:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\Demo\\Demo.csproj",
+  "projectFilePath": "d:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\Demo\\Demo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
