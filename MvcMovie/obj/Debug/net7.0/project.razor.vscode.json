@@ -24065,6 +24065,16 @@
       "FilePath": "d:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\MvcMovie\\Views\\HelloWorld\\Index.cshtml",
       "TargetPath": "Views\\HelloWorld\\Index.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\MvcMovie\\Views\\Employee\\Index.cshtml",
+      "TargetPath": "Views\\Employee\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\PTPMQL\\Caovanuy_PTPMQL2223-main\\MvcMovie\\Views\\Person\\Index.cshtml",
+      "TargetPath": "Views\\Person\\Index.cshtml",
+      "FileKind": "mvc"
     }
   ]
 }
